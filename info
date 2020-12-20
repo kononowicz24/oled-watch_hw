@@ -1,0 +1,2778 @@
+{
+  "uuid": "f5ec1d8e9c52c4dc0e5214b9f4c4ecef",
+  "path": "Offline/K24OLW1BMA2",
+  "name": "K24OLW1BMA2",
+  "content": "",
+  "created_at": "2020-10-29 18:37:34",
+  "updated_at": "2020-12-11 00:49:37",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "35f14354ee7434c793349f4869f928d6",
+      "title": "MCU",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f1c75fae41d74a378b0b2e546576c63e": 1,
+        "a49957184b334e678537e081024fb838": 1,
+        "7b090e841e4bce5dc590b0dd197a399b": 6,
+        "011ee46cdc964900a13c320feaf84dfd": 2,
+        "2207a2df54b541adb1c09a10cf20fb82": 2,
+        "a68dc5e6a9944c46b7604648a43dcd65": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "100nF",
+          6,
+          "C0201",
+          "C2,C3,C4,C5,C20,C21",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "GRM033R61E104KE14D",
+            "BOM_Manufacturer": "MuRata",
+            "BOM_Supplier Part": "C76939",
+            "puuid": "094dad0477404885907461571bab0a7b",
+            "uuid": "7b090e841e4bce5dc590b0dd197a399b"
+          }
+        ],
+        [
+          "TS24CA",
+          2,
+          "SW-SMD_TS24CA",
+          "SW1,SW2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C393942",
+            "BOM_Manufacturer": "SHOU HAN",
+            "BOM_Manufacturer Part": "TS24CA",
+            "puuid": "6c2b316858004c588db6e8d222fe3d7f",
+            "uuid": "011ee46cdc964900a13c320feaf84dfd"
+          }
+        ],
+        [
+          "10K",
+          2,
+          "R0201",
+          "R20,R19",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C304504",
+            "BOM_Manufacturer": "Guangdong Fenghua Advanced Tech",
+            "BOM_Manufacturer Part": "RC-01W103JT",
+            "puuid": "b600ab0518154c0c9d2ed5ca96244c69",
+            "uuid": "2207a2df54b541adb1c09a10cf20fb82"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x3",
+          1,
+          "HDR-M-2.54_1X3",
+          "J3",
+          {
+            "BOM_Supplier Part": "C180248",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "9f77654394344f25b3de138e0fe05ff6",
+            "uuid": "a68dc5e6a9944c46b7604648a43dcd65"
+          }
+        ],
+        [
+          "210-72-03GB01",
+          1,
+          "HDR-TH_6P-P2.54-V-R2-C3-S2.54_A2541WV-2X3P",
+          "J2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C402781",
+            "BOM_Manufacturer": "PINREX",
+            "BOM_Manufacturer Part": "210-72-03GB01",
+            "puuid": "18221cdac22546d19da3813b3a6aa286",
+            "uuid": "a49957184b334e678537e081024fb838"
+          }
+        ],
+        [
+          "ATMEGA644V-10MU",
+          1,
+          "VQFN-44_L7.0-W7.0-P0.50-BL-EP5.2",
+          "U1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C220616",
+            "BOM_Manufacturer": "Microchip Tech",
+            "BOM_Manufacturer Part": "ATMEGA644P-20MU",
+            "puuid": "68fa7d23d2b54243b9d8fd632e0afe6e",
+            "uuid": "f1c75fae41d74a378b0b2e546576c63e"
+          }
+        ],
+        [
+          "100nF",
+          1,
+          "C0201",
+          "C7",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "GRM033R61E104KE14D",
+            "BOM_Manufacturer": "MuRata",
+            "BOM_Supplier Part": "C76939",
+            "puuid": "094dad0477404885907461571bab0a7b",
+            "uuid": "7b090e841e4bce5dc590b0dd197a399b"
+          }
+        ],
+        [
+          "10uF",
+          1,
+          "C0402",
+          "C8",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C386033",
+            "BOM_Manufacturer": "Taiyo Yuden",
+            "BOM_Manufacturer Part": "LDK105CBJ106MVLF",
+            "puuid": "f8eca159cd18407f9d5df374a1c2badf",
+            "uuid": "63ff1cbe72334e2182bd3d6b90dc1299"
+          }
+        ],
+        [
+          "10K",
+          1,
+          "R0201",
+          "R22",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C304504",
+            "BOM_Manufacturer": "Guangdong Fenghua Advanced Tech",
+            "BOM_Manufacturer Part": "RC-01W103JT",
+            "puuid": "b600ab0518154c0c9d2ed5ca96244c69",
+            "uuid": "2207a2df54b541adb1c09a10cf20fb82"
+          }
+        ],
+        [
+          "HM-11",
+          1,
+          "HM-11",
+          "MOD1",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "7c2137e69e0d4a739f1891319c84d628",
+            "uuid": "e2740e561576446abee7b86ea661fd17"
+          }
+        ],
+        [
+          "1uF",
+          3,
+          "C0201",
+          "C14,C19,C18",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C525322",
+            "BOM_Manufacturer": "PSA(Prosperity Dielectrics)",
+            "BOM_Manufacturer Part": "FS03B105M6R3PLG",
+            "puuid": "094dad0477404885907461571bab0a7b",
+            "uuid": "00fdf67f595d49dda61188aa4e6dcb6a"
+          }
+        ],
+        [
+          "100nF",
+          4,
+          "C0201",
+          "C12,C11,C13,C10",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "GRM033R61E104KE14D",
+            "BOM_Manufacturer": "MuRata",
+            "BOM_Supplier Part": "C76939",
+            "puuid": "094dad0477404885907461571bab0a7b",
+            "uuid": "7b090e841e4bce5dc590b0dd197a399b"
+          }
+        ],
+        [
+          "2.2K",
+          2,
+          "R0201",
+          "R15,R14",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C320759",
+            "BOM_Manufacturer": "Guangdong Fenghua Advanced Tech",
+            "BOM_Manufacturer Part": "RC-01W2201FT",
+            "puuid": "b600ab0518154c0c9d2ed5ca96244c69",
+            "uuid": "9c3260df01f246bea5f01abdadd122c0"
+          }
+        ],
+        [
+          "19-21SURC/S530-A5/TR8",
+          1,
+          "LED0603-R-RD",
+          "LED1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C131269",
+            "BOM_Manufacturer": "Everlight Elec",
+            "BOM_Manufacturer Part": "19-21SURC/S530-A5/TR8",
+            "puuid": "50dc3b6111d549ddb6686d77ab1ebdd8",
+            "uuid": "31b84600b45947a3ab216cd314259645"
+          }
+        ],
+        [
+          "NCP114AMX330TCG",
+          1,
+          "UDFN-4_L1.0-W1.0-P0.65-BL-EP",
+          "U4",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "ON",
+            "BOM_Manufacturer Part": "NCP114AMX330TCG",
+            "BOM_Supplier Part": "C133056",
+            "puuid": "0b0bb4600f6a4d8eb71f53eb63e886ef",
+            "uuid": "733c1cf118aa41ffa8287dc73d5f30b2"
+          }
+        ],
+        [
+          "10K",
+          1,
+          "R0201",
+          "R18",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C304504",
+            "BOM_Manufacturer": "Guangdong Fenghua Advanced Tech",
+            "BOM_Manufacturer Part": "RC-01W103JT",
+            "puuid": "b600ab0518154c0c9d2ed5ca96244c69",
+            "uuid": "2207a2df54b541adb1c09a10cf20fb82"
+          }
+        ],
+        [
+          "600Ω",
+          5,
+          "L0402",
+          "L4,L1,L2,L3,L5",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "MuRata",
+            "BOM_Manufacturer Part": "BLM15AG601SN1D",
+            "BOM_Supplier Part": "C76884",
+            "puuid": "15ece89a00f54b39a1025d56f49c74ea",
+            "uuid": "cdc418a71bb855afdf222fa2127fddba"
+          }
+        ],
+        [
+          "BQ21040DBVR",
+          1,
+          "SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR",
+          "U3",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C202311",
+            "BOM_Manufacturer": "Texas Instruments",
+            "BOM_Manufacturer Part": "BQ21040DBVR",
+            "BOM_LCSC Assembly": "Yes",
+            "puuid": "f3d2a2ecf658447dac746eb15158a989",
+            "uuid": "d542d434564b4619b7497f5ab4082c04"
+          }
+        ],
+        [
+          "U253-051T-4BH89-F1B",
+          1,
+          "MICRO-USB-SMD_U253-051T-4BH89-F1B",
+          "USB1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C319172",
+            "BOM_Manufacturer": "XKB Enterprise",
+            "BOM_Manufacturer Part": "U253-051T-4BH89-F1B",
+            "puuid": "42b540a20e024f74b2bdc7988a5e6993",
+            "uuid": "09d7c629dd0b49bb99dc53920dec6ffe"
+          }
+        ],
+        [
+          "1.0T-2P_C145954",
+          1,
+          "CONN-SMD_1.0T-2P",
+          "J1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C145954",
+            "BOM_Manufacturer": "Boom Precision Elec",
+            "BOM_Manufacturer Part": "-",
+            "puuid": "f5214fbb5de845f8bc7ddcb8d7b9a063",
+            "uuid": "d666205139914cfaa7be254d18235ec4"
+          }
+        ],
+        [
+          "DS3231MZ+",
+          1,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "U2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "MAXIM",
+            "BOM_Manufacturer Part": "DS3231MZ+",
+            "BOM_Supplier Part": "C107410",
+            "BOM_LCSC Assembly": "Yes",
+            "puuid": "fea11772be3e46fc9943dcf3594665f6",
+            "uuid": "3a92a380eb984420ae25a3930330887b"
+          }
+        ],
+        [
+          "100nF",
+          4,
+          "C0201",
+          "C16,C15,C6,C9",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "GRM033R61E104KE14D",
+            "BOM_Manufacturer": "MuRata",
+            "BOM_Supplier Part": "C76939",
+            "puuid": "094dad0477404885907461571bab0a7b",
+            "uuid": "7b090e841e4bce5dc590b0dd197a399b"
+          }
+        ],
+        [
+          "10uF",
+          2,
+          "C0402",
+          "C1,C17",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C386033",
+            "BOM_Manufacturer": "Taiyo Yuden",
+            "BOM_Manufacturer Part": "LDK105CBJ106MVLF",
+            "puuid": "f8eca159cd18407f9d5df374a1c2badf",
+            "uuid": "63ff1cbe72334e2182bd3d6b90dc1299"
+          }
+        ],
+        [
+          "ADXL345BCCZ-RL7",
+          1,
+          "LGA-14_L5.0-W3.0-P0.80-BL",
+          "U5",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "ADI",
+            "BOM_Manufacturer Part": "ADXL345BCCZ-RL7",
+            "BOM_Supplier Part": "C9667",
+            "BOM_LCSC Assembly": "Yes",
+            "puuid": "1dcd976d10e04b3783d0ce6134c46f5a",
+            "uuid": "a3147fd5b2f6e2d19fba5710192456ff"
+          }
+        ],
+        [
+          "4.7K",
+          3,
+          "R0201",
+          "R2,R3,R1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C304546",
+            "BOM_Manufacturer": "Guangdong Fenghua Advanced Tech",
+            "BOM_Manufacturer Part": "RC-01W472JT",
+            "puuid": "b600ab0518154c0c9d2ed5ca96244c69",
+            "uuid": "b21cccfca4c14987a1e16e9ee0ceff73"
+          }
+        ],
+        [
+          "OLED 0.96",
+          1,
+          "HDR-M-2.54_1X4",
+          "MOD2",
+          {
+            "BOM_Supplier Part": "C124378",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "282f7786cb6144d097ae00194c3e3fb3",
+            "uuid": "f5b1d9403e49471cab43bc5a1bec336f"
+          }
+        ],
+        [
+          "HP_5082-7432",
+          2,
+          "HP_5082-7432_12P",
+          "LED2,LED3",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "0837cfbf3c5c4c38a34891a7b40145fd",
+            "uuid": "0a06019dac6442aeb0751c02d6a4268b"
+          }
+        ],
+        [
+          "10K",
+          4,
+          "R0201",
+          "R16,R5,R4,R17",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C304504",
+            "BOM_Manufacturer": "Guangdong Fenghua Advanced Tech",
+            "BOM_Manufacturer Part": "RC-01W103JT",
+            "puuid": "b600ab0518154c0c9d2ed5ca96244c69",
+            "uuid": "2207a2df54b541adb1c09a10cf20fb82"
+          }
+        ],
+        [
+          "2SK3541T2L",
+          4,
+          "SOT-723_L1.2-W0.8-P0.40-LS1.2-BR",
+          "Q3,Q1,Q2,Q4",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "ROHM",
+            "BOM_Manufacturer Part": "2SK3541T2L",
+            "BOM_Supplier Part": "C74740",
+            "BOM_LCSC Assembly": "Yes",
+            "puuid": "fa6109cdb91742a3b130f59a0a2cd481",
+            "uuid": "6031a29f53de33e31d5e38aea556dd54"
+          }
+        ],
+        [
+          "510",
+          8,
+          "R0201",
+          "R10,R12,R11,R9,R8,R7,R6,R13",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "RALEC",
+            "BOM_Manufacturer Part": "RTT015100FTH",
+            "BOM_Supplier Part": "C158477",
+            "puuid": "b600ab0518154c0c9d2ed5ca96244c69",
+            "uuid": "9375551cc17a47b483edd05058aeb351"
+          }
+        ]
+      ],
+      "updateTime": 1607533486,
+      "createTime": 1603993055,
+      "histories": [],
+      "created_at": "2020-10-29 18:37:35",
+      "updated_at": "2020-12-09 18:04:46"
+    },
+    {
+      "uuid": "9d1ceb6f2d2e285dfdc064056845b80d",
+      "title": "BLE",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "e2740e561576446abee7b86ea661fd17": 1,
+        "7b090e841e4bce5dc590b0dd197a399b": 1,
+        "63ff1cbe72334e2182bd3d6b90dc1299": 1,
+        "2207a2df54b541adb1c09a10cf20fb82": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "100nF",
+          6,
+          "C0201",
+          "C2,C3,C4,C5,C20,C21",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "GRM033R61E104KE14D",
+            "BOM_Manufacturer": "MuRata",
+            "BOM_Supplier Part": "C76939",
+            "puuid": "094dad0477404885907461571bab0a7b",
+            "uuid": "7b090e841e4bce5dc590b0dd197a399b"
+          }
+        ],
+        [
+          "TS24CA",
+          2,
+          "SW-SMD_TS24CA",
+          "SW1,SW2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C393942",
+            "BOM_Manufacturer": "SHOU HAN",
+            "BOM_Manufacturer Part": "TS24CA",
+            "puuid": "6c2b316858004c588db6e8d222fe3d7f",
+            "uuid": "011ee46cdc964900a13c320feaf84dfd"
+          }
+        ],
+        [
+          "10K",
+          2,
+          "R0201",
+          "R20,R19",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C304504",
+            "BOM_Manufacturer": "Guangdong Fenghua Advanced Tech",
+            "BOM_Manufacturer Part": "RC-01W103JT",
+            "puuid": "b600ab0518154c0c9d2ed5ca96244c69",
+            "uuid": "2207a2df54b541adb1c09a10cf20fb82"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x3",
+          1,
+          "HDR-M-2.54_1X3",
+          "J3",
+          {
+            "BOM_Supplier Part": "C180248",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "9f77654394344f25b3de138e0fe05ff6",
+            "uuid": "a68dc5e6a9944c46b7604648a43dcd65"
+          }
+        ],
+        [
+          "210-72-03GB01",
+          1,
+          "HDR-TH_6P-P2.54-V-R2-C3-S2.54_A2541WV-2X3P",
+          "J2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C402781",
+            "BOM_Manufacturer": "PINREX",
+            "BOM_Manufacturer Part": "210-72-03GB01",
+            "puuid": "18221cdac22546d19da3813b3a6aa286",
+            "uuid": "a49957184b334e678537e081024fb838"
+          }
+        ],
+        [
+          "ATMEGA644V-10MU",
+          1,
+          "VQFN-44_L7.0-W7.0-P0.50-BL-EP5.2",
+          "U1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C220616",
+            "BOM_Manufacturer": "Microchip Tech",
+            "BOM_Manufacturer Part": "ATMEGA644P-20MU",
+            "puuid": "68fa7d23d2b54243b9d8fd632e0afe6e",
+            "uuid": "f1c75fae41d74a378b0b2e546576c63e"
+          }
+        ],
+        [
+          "100nF",
+          1,
+          "C0201",
+          "C7",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "GRM033R61E104KE14D",
+            "BOM_Manufacturer": "MuRata",
+            "BOM_Supplier Part": "C76939",
+            "puuid": "094dad0477404885907461571bab0a7b",
+            "uuid": "7b090e841e4bce5dc590b0dd197a399b"
+          }
+        ],
+        [
+          "10uF",
+          1,
+          "C0402",
+          "C8",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C386033",
+            "BOM_Manufacturer": "Taiyo Yuden",
+            "BOM_Manufacturer Part": "LDK105CBJ106MVLF",
+            "puuid": "f8eca159cd18407f9d5df374a1c2badf",
+            "uuid": "63ff1cbe72334e2182bd3d6b90dc1299"
+          }
+        ],
+        [
+          "10K",
+          1,
+          "R0201",
+          "R22",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C304504",
+            "BOM_Manufacturer": "Guangdong Fenghua Advanced Tech",
+            "BOM_Manufacturer Part": "RC-01W103JT",
+            "puuid": "b600ab0518154c0c9d2ed5ca96244c69",
+            "uuid": "2207a2df54b541adb1c09a10cf20fb82"
+          }
+        ],
+        [
+          "HM-11",
+          1,
+          "HM-11",
+          "MOD1",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "7c2137e69e0d4a739f1891319c84d628",
+            "uuid": "e2740e561576446abee7b86ea661fd17"
+          }
+        ],
+        [
+          "1uF",
+          3,
+          "C0201",
+          "C14,C19,C18",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C525322",
+            "BOM_Manufacturer": "PSA(Prosperity Dielectrics)",
+            "BOM_Manufacturer Part": "FS03B105M6R3PLG",
+            "puuid": "094dad0477404885907461571bab0a7b",
+            "uuid": "00fdf67f595d49dda61188aa4e6dcb6a"
+          }
+        ],
+        [
+          "100nF",
+          4,
+          "C0201",
+          "C12,C11,C13,C10",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "GRM033R61E104KE14D",
+            "BOM_Manufacturer": "MuRata",
+            "BOM_Supplier Part": "C76939",
+            "puuid": "094dad0477404885907461571bab0a7b",
+            "uuid": "7b090e841e4bce5dc590b0dd197a399b"
+          }
+        ],
+        [
+          "2.2K",
+          2,
+          "R0201",
+          "R15,R14",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C320759",
+            "BOM_Manufacturer": "Guangdong Fenghua Advanced Tech",
+            "BOM_Manufacturer Part": "RC-01W2201FT",
+            "puuid": "b600ab0518154c0c9d2ed5ca96244c69",
+            "uuid": "9c3260df01f246bea5f01abdadd122c0"
+          }
+        ],
+        [
+          "19-21SURC/S530-A5/TR8",
+          1,
+          "LED0603-R-RD",
+          "LED1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C131269",
+            "BOM_Manufacturer": "Everlight Elec",
+            "BOM_Manufacturer Part": "19-21SURC/S530-A5/TR8",
+            "puuid": "50dc3b6111d549ddb6686d77ab1ebdd8",
+            "uuid": "31b84600b45947a3ab216cd314259645"
+          }
+        ],
+        [
+          "NCP114AMX330TCG",
+          1,
+          "UDFN-4_L1.0-W1.0-P0.65-BL-EP",
+          "U4",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "ON",
+            "BOM_Manufacturer Part": "NCP114AMX330TCG",
+            "BOM_Supplier Part": "C133056",
+            "puuid": "0b0bb4600f6a4d8eb71f53eb63e886ef",
+            "uuid": "733c1cf118aa41ffa8287dc73d5f30b2"
+          }
+        ],
+        [
+          "10K",
+          1,
+          "R0201",
+          "R18",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C304504",
+            "BOM_Manufacturer": "Guangdong Fenghua Advanced Tech",
+            "BOM_Manufacturer Part": "RC-01W103JT",
+            "puuid": "b600ab0518154c0c9d2ed5ca96244c69",
+            "uuid": "2207a2df54b541adb1c09a10cf20fb82"
+          }
+        ],
+        [
+          "600Ω",
+          5,
+          "L0402",
+          "L4,L1,L2,L3,L5",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "MuRata",
+            "BOM_Manufacturer Part": "BLM15AG601SN1D",
+            "BOM_Supplier Part": "C76884",
+            "puuid": "15ece89a00f54b39a1025d56f49c74ea",
+            "uuid": "cdc418a71bb855afdf222fa2127fddba"
+          }
+        ],
+        [
+          "BQ21040DBVR",
+          1,
+          "SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR",
+          "U3",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C202311",
+            "BOM_Manufacturer": "Texas Instruments",
+            "BOM_Manufacturer Part": "BQ21040DBVR",
+            "BOM_LCSC Assembly": "Yes",
+            "puuid": "f3d2a2ecf658447dac746eb15158a989",
+            "uuid": "d542d434564b4619b7497f5ab4082c04"
+          }
+        ],
+        [
+          "U253-051T-4BH89-F1B",
+          1,
+          "MICRO-USB-SMD_U253-051T-4BH89-F1B",
+          "USB1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C319172",
+            "BOM_Manufacturer": "XKB Enterprise",
+            "BOM_Manufacturer Part": "U253-051T-4BH89-F1B",
+            "puuid": "42b540a20e024f74b2bdc7988a5e6993",
+            "uuid": "09d7c629dd0b49bb99dc53920dec6ffe"
+          }
+        ],
+        [
+          "1.0T-2P_C145954",
+          1,
+          "CONN-SMD_1.0T-2P",
+          "J1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C145954",
+            "BOM_Manufacturer": "Boom Precision Elec",
+            "BOM_Manufacturer Part": "-",
+            "puuid": "f5214fbb5de845f8bc7ddcb8d7b9a063",
+            "uuid": "d666205139914cfaa7be254d18235ec4"
+          }
+        ],
+        [
+          "DS3231MZ+",
+          1,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "U2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "MAXIM",
+            "BOM_Manufacturer Part": "DS3231MZ+",
+            "BOM_Supplier Part": "C107410",
+            "BOM_LCSC Assembly": "Yes",
+            "puuid": "fea11772be3e46fc9943dcf3594665f6",
+            "uuid": "3a92a380eb984420ae25a3930330887b"
+          }
+        ],
+        [
+          "100nF",
+          4,
+          "C0201",
+          "C16,C15,C6,C9",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "GRM033R61E104KE14D",
+            "BOM_Manufacturer": "MuRata",
+            "BOM_Supplier Part": "C76939",
+            "puuid": "094dad0477404885907461571bab0a7b",
+            "uuid": "7b090e841e4bce5dc590b0dd197a399b"
+          }
+        ],
+        [
+          "10uF",
+          2,
+          "C0402",
+          "C1,C17",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C386033",
+            "BOM_Manufacturer": "Taiyo Yuden",
+            "BOM_Manufacturer Part": "LDK105CBJ106MVLF",
+            "puuid": "f8eca159cd18407f9d5df374a1c2badf",
+            "uuid": "63ff1cbe72334e2182bd3d6b90dc1299"
+          }
+        ],
+        [
+          "ADXL345BCCZ-RL7",
+          1,
+          "LGA-14_L5.0-W3.0-P0.80-BL",
+          "U5",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "ADI",
+            "BOM_Manufacturer Part": "ADXL345BCCZ-RL7",
+            "BOM_Supplier Part": "C9667",
+            "BOM_LCSC Assembly": "Yes",
+            "puuid": "1dcd976d10e04b3783d0ce6134c46f5a",
+            "uuid": "a3147fd5b2f6e2d19fba5710192456ff"
+          }
+        ],
+        [
+          "4.7K",
+          3,
+          "R0201",
+          "R2,R3,R1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C304546",
+            "BOM_Manufacturer": "Guangdong Fenghua Advanced Tech",
+            "BOM_Manufacturer Part": "RC-01W472JT",
+            "puuid": "b600ab0518154c0c9d2ed5ca96244c69",
+            "uuid": "b21cccfca4c14987a1e16e9ee0ceff73"
+          }
+        ],
+        [
+          "OLED 0.96",
+          1,
+          "HDR-M-2.54_1X4",
+          "MOD2",
+          {
+            "BOM_Supplier Part": "C124378",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "282f7786cb6144d097ae00194c3e3fb3",
+            "uuid": "f5b1d9403e49471cab43bc5a1bec336f"
+          }
+        ],
+        [
+          "HP_5082-7432",
+          2,
+          "HP_5082-7432_12P",
+          "LED2,LED3",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "0837cfbf3c5c4c38a34891a7b40145fd",
+            "uuid": "0a06019dac6442aeb0751c02d6a4268b"
+          }
+        ],
+        [
+          "10K",
+          4,
+          "R0201",
+          "R16,R5,R4,R17",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C304504",
+            "BOM_Manufacturer": "Guangdong Fenghua Advanced Tech",
+            "BOM_Manufacturer Part": "RC-01W103JT",
+            "puuid": "b600ab0518154c0c9d2ed5ca96244c69",
+            "uuid": "2207a2df54b541adb1c09a10cf20fb82"
+          }
+        ],
+        [
+          "2SK3541T2L",
+          4,
+          "SOT-723_L1.2-W0.8-P0.40-LS1.2-BR",
+          "Q3,Q1,Q2,Q4",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "ROHM",
+            "BOM_Manufacturer Part": "2SK3541T2L",
+            "BOM_Supplier Part": "C74740",
+            "BOM_LCSC Assembly": "Yes",
+            "puuid": "fa6109cdb91742a3b130f59a0a2cd481",
+            "uuid": "6031a29f53de33e31d5e38aea556dd54"
+          }
+        ],
+        [
+          "510",
+          8,
+          "R0201",
+          "R10,R12,R11,R9,R8,R7,R6,R13",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "RALEC",
+            "BOM_Manufacturer Part": "RTT015100FTH",
+            "BOM_Supplier Part": "C158477",
+            "puuid": "b600ab0518154c0c9d2ed5ca96244c69",
+            "uuid": "9375551cc17a47b483edd05058aeb351"
+          }
+        ]
+      ],
+      "updateTime": 1607549073,
+      "createTime": 1603993055,
+      "histories": [],
+      "created_at": "2020-10-29 18:37:35",
+      "updated_at": "2020-12-09 22:24:33"
+    },
+    {
+      "uuid": "42f8e7dc8bb43b54171e197883456c0c",
+      "title": "PWR",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "d542d434564b4619b7497f5ab4082c04": 1,
+        "31b84600b45947a3ab216cd314259645": 1,
+        "7b090e841e4bce5dc590b0dd197a399b": 4,
+        "9c3260df01f246bea5f01abdadd122c0": 2,
+        "733c1cf118aa41ffa8287dc73d5f30b2": 1,
+        "cdc418a71bb855afdf222fa2127fddba": 5,
+        "00fdf67f595d49dda61188aa4e6dcb6a": 3,
+        "2207a2df54b541adb1c09a10cf20fb82": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "100nF",
+          6,
+          "C0201",
+          "C2,C3,C4,C5,C20,C21",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "GRM033R61E104KE14D",
+            "BOM_Manufacturer": "MuRata",
+            "BOM_Supplier Part": "C76939",
+            "puuid": "094dad0477404885907461571bab0a7b",
+            "uuid": "7b090e841e4bce5dc590b0dd197a399b"
+          }
+        ],
+        [
+          "TS24CA",
+          2,
+          "SW-SMD_TS24CA",
+          "SW1,SW2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C393942",
+            "BOM_Manufacturer": "SHOU HAN",
+            "BOM_Manufacturer Part": "TS24CA",
+            "puuid": "6c2b316858004c588db6e8d222fe3d7f",
+            "uuid": "011ee46cdc964900a13c320feaf84dfd"
+          }
+        ],
+        [
+          "10K",
+          2,
+          "R0201",
+          "R20,R19",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C304504",
+            "BOM_Manufacturer": "Guangdong Fenghua Advanced Tech",
+            "BOM_Manufacturer Part": "RC-01W103JT",
+            "puuid": "b600ab0518154c0c9d2ed5ca96244c69",
+            "uuid": "2207a2df54b541adb1c09a10cf20fb82"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x3",
+          1,
+          "HDR-M-2.54_1X3",
+          "J3",
+          {
+            "BOM_Supplier Part": "C180248",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "9f77654394344f25b3de138e0fe05ff6",
+            "uuid": "a68dc5e6a9944c46b7604648a43dcd65"
+          }
+        ],
+        [
+          "210-72-03GB01",
+          1,
+          "HDR-TH_6P-P2.54-V-R2-C3-S2.54_A2541WV-2X3P",
+          "J2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C402781",
+            "BOM_Manufacturer": "PINREX",
+            "BOM_Manufacturer Part": "210-72-03GB01",
+            "puuid": "18221cdac22546d19da3813b3a6aa286",
+            "uuid": "a49957184b334e678537e081024fb838"
+          }
+        ],
+        [
+          "ATMEGA644V-10MU",
+          1,
+          "VQFN-44_L7.0-W7.0-P0.50-BL-EP5.2",
+          "U1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C220616",
+            "BOM_Manufacturer": "Microchip Tech",
+            "BOM_Manufacturer Part": "ATMEGA644P-20MU",
+            "puuid": "68fa7d23d2b54243b9d8fd632e0afe6e",
+            "uuid": "f1c75fae41d74a378b0b2e546576c63e"
+          }
+        ],
+        [
+          "100nF",
+          1,
+          "C0201",
+          "C7",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "GRM033R61E104KE14D",
+            "BOM_Manufacturer": "MuRata",
+            "BOM_Supplier Part": "C76939",
+            "puuid": "094dad0477404885907461571bab0a7b",
+            "uuid": "7b090e841e4bce5dc590b0dd197a399b"
+          }
+        ],
+        [
+          "10uF",
+          1,
+          "C0402",
+          "C8",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C386033",
+            "BOM_Manufacturer": "Taiyo Yuden",
+            "BOM_Manufacturer Part": "LDK105CBJ106MVLF",
+            "puuid": "f8eca159cd18407f9d5df374a1c2badf",
+            "uuid": "63ff1cbe72334e2182bd3d6b90dc1299"
+          }
+        ],
+        [
+          "10K",
+          1,
+          "R0201",
+          "R22",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C304504",
+            "BOM_Manufacturer": "Guangdong Fenghua Advanced Tech",
+            "BOM_Manufacturer Part": "RC-01W103JT",
+            "puuid": "b600ab0518154c0c9d2ed5ca96244c69",
+            "uuid": "2207a2df54b541adb1c09a10cf20fb82"
+          }
+        ],
+        [
+          "HM-11",
+          1,
+          "HM-11",
+          "MOD1",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "7c2137e69e0d4a739f1891319c84d628",
+            "uuid": "e2740e561576446abee7b86ea661fd17"
+          }
+        ],
+        [
+          "1uF",
+          3,
+          "C0201",
+          "C14,C19,C18",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C525322",
+            "BOM_Manufacturer": "PSA(Prosperity Dielectrics)",
+            "BOM_Manufacturer Part": "FS03B105M6R3PLG",
+            "puuid": "094dad0477404885907461571bab0a7b",
+            "uuid": "00fdf67f595d49dda61188aa4e6dcb6a"
+          }
+        ],
+        [
+          "100nF",
+          4,
+          "C0201",
+          "C12,C11,C13,C10",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "GRM033R61E104KE14D",
+            "BOM_Manufacturer": "MuRata",
+            "BOM_Supplier Part": "C76939",
+            "puuid": "094dad0477404885907461571bab0a7b",
+            "uuid": "7b090e841e4bce5dc590b0dd197a399b"
+          }
+        ],
+        [
+          "2.2K",
+          2,
+          "R0201",
+          "R15,R14",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C320759",
+            "BOM_Manufacturer": "Guangdong Fenghua Advanced Tech",
+            "BOM_Manufacturer Part": "RC-01W2201FT",
+            "puuid": "b600ab0518154c0c9d2ed5ca96244c69",
+            "uuid": "9c3260df01f246bea5f01abdadd122c0"
+          }
+        ],
+        [
+          "19-21SURC/S530-A5/TR8",
+          1,
+          "LED0603-R-RD",
+          "LED1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C131269",
+            "BOM_Manufacturer": "Everlight Elec",
+            "BOM_Manufacturer Part": "19-21SURC/S530-A5/TR8",
+            "puuid": "50dc3b6111d549ddb6686d77ab1ebdd8",
+            "uuid": "31b84600b45947a3ab216cd314259645"
+          }
+        ],
+        [
+          "NCP114AMX330TCG",
+          1,
+          "UDFN-4_L1.0-W1.0-P0.65-BL-EP",
+          "U4",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "ON",
+            "BOM_Manufacturer Part": "NCP114AMX330TCG",
+            "BOM_Supplier Part": "C133056",
+            "puuid": "0b0bb4600f6a4d8eb71f53eb63e886ef",
+            "uuid": "733c1cf118aa41ffa8287dc73d5f30b2"
+          }
+        ],
+        [
+          "10K",
+          1,
+          "R0201",
+          "R18",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C304504",
+            "BOM_Manufacturer": "Guangdong Fenghua Advanced Tech",
+            "BOM_Manufacturer Part": "RC-01W103JT",
+            "puuid": "b600ab0518154c0c9d2ed5ca96244c69",
+            "uuid": "2207a2df54b541adb1c09a10cf20fb82"
+          }
+        ],
+        [
+          "600Ω",
+          5,
+          "L0402",
+          "L4,L1,L2,L3,L5",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "MuRata",
+            "BOM_Manufacturer Part": "BLM15AG601SN1D",
+            "BOM_Supplier Part": "C76884",
+            "puuid": "15ece89a00f54b39a1025d56f49c74ea",
+            "uuid": "cdc418a71bb855afdf222fa2127fddba"
+          }
+        ],
+        [
+          "BQ21040DBVR",
+          1,
+          "SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR",
+          "U3",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C202311",
+            "BOM_Manufacturer": "Texas Instruments",
+            "BOM_Manufacturer Part": "BQ21040DBVR",
+            "BOM_LCSC Assembly": "Yes",
+            "puuid": "f3d2a2ecf658447dac746eb15158a989",
+            "uuid": "d542d434564b4619b7497f5ab4082c04"
+          }
+        ],
+        [
+          "U253-051T-4BH89-F1B",
+          1,
+          "MICRO-USB-SMD_U253-051T-4BH89-F1B",
+          "USB1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C319172",
+            "BOM_Manufacturer": "XKB Enterprise",
+            "BOM_Manufacturer Part": "U253-051T-4BH89-F1B",
+            "puuid": "42b540a20e024f74b2bdc7988a5e6993",
+            "uuid": "09d7c629dd0b49bb99dc53920dec6ffe"
+          }
+        ],
+        [
+          "1.0T-2P_C145954",
+          1,
+          "CONN-SMD_1.0T-2P",
+          "J1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C145954",
+            "BOM_Manufacturer": "Boom Precision Elec",
+            "BOM_Manufacturer Part": "-",
+            "puuid": "f5214fbb5de845f8bc7ddcb8d7b9a063",
+            "uuid": "d666205139914cfaa7be254d18235ec4"
+          }
+        ],
+        [
+          "DS3231MZ+",
+          1,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "U2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "MAXIM",
+            "BOM_Manufacturer Part": "DS3231MZ+",
+            "BOM_Supplier Part": "C107410",
+            "BOM_LCSC Assembly": "Yes",
+            "puuid": "fea11772be3e46fc9943dcf3594665f6",
+            "uuid": "3a92a380eb984420ae25a3930330887b"
+          }
+        ],
+        [
+          "100nF",
+          4,
+          "C0201",
+          "C16,C15,C6,C9",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "GRM033R61E104KE14D",
+            "BOM_Manufacturer": "MuRata",
+            "BOM_Supplier Part": "C76939",
+            "puuid": "094dad0477404885907461571bab0a7b",
+            "uuid": "7b090e841e4bce5dc590b0dd197a399b"
+          }
+        ],
+        [
+          "10uF",
+          2,
+          "C0402",
+          "C1,C17",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C386033",
+            "BOM_Manufacturer": "Taiyo Yuden",
+            "BOM_Manufacturer Part": "LDK105CBJ106MVLF",
+            "puuid": "f8eca159cd18407f9d5df374a1c2badf",
+            "uuid": "63ff1cbe72334e2182bd3d6b90dc1299"
+          }
+        ],
+        [
+          "ADXL345BCCZ-RL7",
+          1,
+          "LGA-14_L5.0-W3.0-P0.80-BL",
+          "U5",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "ADI",
+            "BOM_Manufacturer Part": "ADXL345BCCZ-RL7",
+            "BOM_Supplier Part": "C9667",
+            "BOM_LCSC Assembly": "Yes",
+            "puuid": "1dcd976d10e04b3783d0ce6134c46f5a",
+            "uuid": "a3147fd5b2f6e2d19fba5710192456ff"
+          }
+        ],
+        [
+          "4.7K",
+          3,
+          "R0201",
+          "R2,R3,R1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C304546",
+            "BOM_Manufacturer": "Guangdong Fenghua Advanced Tech",
+            "BOM_Manufacturer Part": "RC-01W472JT",
+            "puuid": "b600ab0518154c0c9d2ed5ca96244c69",
+            "uuid": "b21cccfca4c14987a1e16e9ee0ceff73"
+          }
+        ],
+        [
+          "OLED 0.96",
+          1,
+          "HDR-M-2.54_1X4",
+          "MOD2",
+          {
+            "BOM_Supplier Part": "C124378",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "282f7786cb6144d097ae00194c3e3fb3",
+            "uuid": "f5b1d9403e49471cab43bc5a1bec336f"
+          }
+        ],
+        [
+          "HP_5082-7432",
+          2,
+          "HP_5082-7432_12P",
+          "LED2,LED3",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "0837cfbf3c5c4c38a34891a7b40145fd",
+            "uuid": "0a06019dac6442aeb0751c02d6a4268b"
+          }
+        ],
+        [
+          "10K",
+          4,
+          "R0201",
+          "R16,R5,R4,R17",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C304504",
+            "BOM_Manufacturer": "Guangdong Fenghua Advanced Tech",
+            "BOM_Manufacturer Part": "RC-01W103JT",
+            "puuid": "b600ab0518154c0c9d2ed5ca96244c69",
+            "uuid": "2207a2df54b541adb1c09a10cf20fb82"
+          }
+        ],
+        [
+          "2SK3541T2L",
+          4,
+          "SOT-723_L1.2-W0.8-P0.40-LS1.2-BR",
+          "Q3,Q1,Q2,Q4",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "ROHM",
+            "BOM_Manufacturer Part": "2SK3541T2L",
+            "BOM_Supplier Part": "C74740",
+            "BOM_LCSC Assembly": "Yes",
+            "puuid": "fa6109cdb91742a3b130f59a0a2cd481",
+            "uuid": "6031a29f53de33e31d5e38aea556dd54"
+          }
+        ],
+        [
+          "510",
+          8,
+          "R0201",
+          "R10,R12,R11,R9,R8,R7,R6,R13",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "RALEC",
+            "BOM_Manufacturer Part": "RTT015100FTH",
+            "BOM_Supplier Part": "C158477",
+            "puuid": "b600ab0518154c0c9d2ed5ca96244c69",
+            "uuid": "9375551cc17a47b483edd05058aeb351"
+          }
+        ]
+      ],
+      "updateTime": 1607555153,
+      "createTime": 1603993055,
+      "histories": [],
+      "created_at": "2020-10-29 18:37:35",
+      "updated_at": "2020-12-10 00:05:53"
+    },
+    {
+      "uuid": "ab4f4611485034ca75383825f6f08986",
+      "title": "CONN",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "d666205139914cfaa7be254d18235ec4": 1,
+        "09d7c629dd0b49bb99dc53920dec6ffe": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "100nF",
+          6,
+          "C0201",
+          "C2,C3,C4,C5,C20,C21",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "GRM033R61E104KE14D",
+            "BOM_Manufacturer": "MuRata",
+            "BOM_Supplier Part": "C76939",
+            "puuid": "094dad0477404885907461571bab0a7b",
+            "uuid": "7b090e841e4bce5dc590b0dd197a399b"
+          }
+        ],
+        [
+          "TS24CA",
+          2,
+          "SW-SMD_TS24CA",
+          "SW1,SW2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C393942",
+            "BOM_Manufacturer": "SHOU HAN",
+            "BOM_Manufacturer Part": "TS24CA",
+            "puuid": "6c2b316858004c588db6e8d222fe3d7f",
+            "uuid": "011ee46cdc964900a13c320feaf84dfd"
+          }
+        ],
+        [
+          "10K",
+          2,
+          "R0201",
+          "R20,R19",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C304504",
+            "BOM_Manufacturer": "Guangdong Fenghua Advanced Tech",
+            "BOM_Manufacturer Part": "RC-01W103JT",
+            "puuid": "b600ab0518154c0c9d2ed5ca96244c69",
+            "uuid": "2207a2df54b541adb1c09a10cf20fb82"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x3",
+          1,
+          "HDR-M-2.54_1X3",
+          "J3",
+          {
+            "BOM_Supplier Part": "C180248",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "9f77654394344f25b3de138e0fe05ff6",
+            "uuid": "a68dc5e6a9944c46b7604648a43dcd65"
+          }
+        ],
+        [
+          "210-72-03GB01",
+          1,
+          "HDR-TH_6P-P2.54-V-R2-C3-S2.54_A2541WV-2X3P",
+          "J2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C402781",
+            "BOM_Manufacturer": "PINREX",
+            "BOM_Manufacturer Part": "210-72-03GB01",
+            "puuid": "18221cdac22546d19da3813b3a6aa286",
+            "uuid": "a49957184b334e678537e081024fb838"
+          }
+        ],
+        [
+          "ATMEGA644V-10MU",
+          1,
+          "VQFN-44_L7.0-W7.0-P0.50-BL-EP5.2",
+          "U1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C220616",
+            "BOM_Manufacturer": "Microchip Tech",
+            "BOM_Manufacturer Part": "ATMEGA644P-20MU",
+            "puuid": "68fa7d23d2b54243b9d8fd632e0afe6e",
+            "uuid": "f1c75fae41d74a378b0b2e546576c63e"
+          }
+        ],
+        [
+          "100nF",
+          1,
+          "C0201",
+          "C7",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "GRM033R61E104KE14D",
+            "BOM_Manufacturer": "MuRata",
+            "BOM_Supplier Part": "C76939",
+            "puuid": "094dad0477404885907461571bab0a7b",
+            "uuid": "7b090e841e4bce5dc590b0dd197a399b"
+          }
+        ],
+        [
+          "10uF",
+          1,
+          "C0402",
+          "C8",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C386033",
+            "BOM_Manufacturer": "Taiyo Yuden",
+            "BOM_Manufacturer Part": "LDK105CBJ106MVLF",
+            "puuid": "f8eca159cd18407f9d5df374a1c2badf",
+            "uuid": "63ff1cbe72334e2182bd3d6b90dc1299"
+          }
+        ],
+        [
+          "10K",
+          1,
+          "R0201",
+          "R22",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C304504",
+            "BOM_Manufacturer": "Guangdong Fenghua Advanced Tech",
+            "BOM_Manufacturer Part": "RC-01W103JT",
+            "puuid": "b600ab0518154c0c9d2ed5ca96244c69",
+            "uuid": "2207a2df54b541adb1c09a10cf20fb82"
+          }
+        ],
+        [
+          "HM-11",
+          1,
+          "HM-11",
+          "MOD1",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "7c2137e69e0d4a739f1891319c84d628",
+            "uuid": "e2740e561576446abee7b86ea661fd17"
+          }
+        ],
+        [
+          "1uF",
+          3,
+          "C0201",
+          "C14,C19,C18",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C525322",
+            "BOM_Manufacturer": "PSA(Prosperity Dielectrics)",
+            "BOM_Manufacturer Part": "FS03B105M6R3PLG",
+            "puuid": "094dad0477404885907461571bab0a7b",
+            "uuid": "00fdf67f595d49dda61188aa4e6dcb6a"
+          }
+        ],
+        [
+          "100nF",
+          4,
+          "C0201",
+          "C12,C11,C13,C10",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "GRM033R61E104KE14D",
+            "BOM_Manufacturer": "MuRata",
+            "BOM_Supplier Part": "C76939",
+            "puuid": "094dad0477404885907461571bab0a7b",
+            "uuid": "7b090e841e4bce5dc590b0dd197a399b"
+          }
+        ],
+        [
+          "2.2K",
+          2,
+          "R0201",
+          "R15,R14",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C320759",
+            "BOM_Manufacturer": "Guangdong Fenghua Advanced Tech",
+            "BOM_Manufacturer Part": "RC-01W2201FT",
+            "puuid": "b600ab0518154c0c9d2ed5ca96244c69",
+            "uuid": "9c3260df01f246bea5f01abdadd122c0"
+          }
+        ],
+        [
+          "19-21SURC/S530-A5/TR8",
+          1,
+          "LED0603-R-RD",
+          "LED1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C131269",
+            "BOM_Manufacturer": "Everlight Elec",
+            "BOM_Manufacturer Part": "19-21SURC/S530-A5/TR8",
+            "puuid": "50dc3b6111d549ddb6686d77ab1ebdd8",
+            "uuid": "31b84600b45947a3ab216cd314259645"
+          }
+        ],
+        [
+          "NCP114AMX330TCG",
+          1,
+          "UDFN-4_L1.0-W1.0-P0.65-BL-EP",
+          "U4",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "ON",
+            "BOM_Manufacturer Part": "NCP114AMX330TCG",
+            "BOM_Supplier Part": "C133056",
+            "puuid": "0b0bb4600f6a4d8eb71f53eb63e886ef",
+            "uuid": "733c1cf118aa41ffa8287dc73d5f30b2"
+          }
+        ],
+        [
+          "10K",
+          1,
+          "R0201",
+          "R18",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C304504",
+            "BOM_Manufacturer": "Guangdong Fenghua Advanced Tech",
+            "BOM_Manufacturer Part": "RC-01W103JT",
+            "puuid": "b600ab0518154c0c9d2ed5ca96244c69",
+            "uuid": "2207a2df54b541adb1c09a10cf20fb82"
+          }
+        ],
+        [
+          "600Ω",
+          5,
+          "L0402",
+          "L4,L1,L2,L3,L5",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "MuRata",
+            "BOM_Manufacturer Part": "BLM15AG601SN1D",
+            "BOM_Supplier Part": "C76884",
+            "puuid": "15ece89a00f54b39a1025d56f49c74ea",
+            "uuid": "cdc418a71bb855afdf222fa2127fddba"
+          }
+        ],
+        [
+          "BQ21040DBVR",
+          1,
+          "SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR",
+          "U3",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C202311",
+            "BOM_Manufacturer": "Texas Instruments",
+            "BOM_Manufacturer Part": "BQ21040DBVR",
+            "BOM_LCSC Assembly": "Yes",
+            "puuid": "f3d2a2ecf658447dac746eb15158a989",
+            "uuid": "d542d434564b4619b7497f5ab4082c04"
+          }
+        ],
+        [
+          "U253-051T-4BH89-F1B",
+          1,
+          "MICRO-USB-SMD_U253-051T-4BH89-F1B",
+          "USB1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C319172",
+            "BOM_Manufacturer": "XKB Enterprise",
+            "BOM_Manufacturer Part": "U253-051T-4BH89-F1B",
+            "puuid": "42b540a20e024f74b2bdc7988a5e6993",
+            "uuid": "09d7c629dd0b49bb99dc53920dec6ffe"
+          }
+        ],
+        [
+          "1.0T-2P_C145954",
+          1,
+          "CONN-SMD_1.0T-2P",
+          "J1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C145954",
+            "BOM_Manufacturer": "Boom Precision Elec",
+            "BOM_Manufacturer Part": "-",
+            "puuid": "f5214fbb5de845f8bc7ddcb8d7b9a063",
+            "uuid": "d666205139914cfaa7be254d18235ec4"
+          }
+        ],
+        [
+          "DS3231MZ+",
+          1,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "U2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "MAXIM",
+            "BOM_Manufacturer Part": "DS3231MZ+",
+            "BOM_Supplier Part": "C107410",
+            "BOM_LCSC Assembly": "Yes",
+            "puuid": "fea11772be3e46fc9943dcf3594665f6",
+            "uuid": "3a92a380eb984420ae25a3930330887b"
+          }
+        ],
+        [
+          "100nF",
+          4,
+          "C0201",
+          "C16,C15,C6,C9",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "GRM033R61E104KE14D",
+            "BOM_Manufacturer": "MuRata",
+            "BOM_Supplier Part": "C76939",
+            "puuid": "094dad0477404885907461571bab0a7b",
+            "uuid": "7b090e841e4bce5dc590b0dd197a399b"
+          }
+        ],
+        [
+          "10uF",
+          2,
+          "C0402",
+          "C1,C17",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C386033",
+            "BOM_Manufacturer": "Taiyo Yuden",
+            "BOM_Manufacturer Part": "LDK105CBJ106MVLF",
+            "puuid": "f8eca159cd18407f9d5df374a1c2badf",
+            "uuid": "63ff1cbe72334e2182bd3d6b90dc1299"
+          }
+        ],
+        [
+          "ADXL345BCCZ-RL7",
+          1,
+          "LGA-14_L5.0-W3.0-P0.80-BL",
+          "U5",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "ADI",
+            "BOM_Manufacturer Part": "ADXL345BCCZ-RL7",
+            "BOM_Supplier Part": "C9667",
+            "BOM_LCSC Assembly": "Yes",
+            "puuid": "1dcd976d10e04b3783d0ce6134c46f5a",
+            "uuid": "a3147fd5b2f6e2d19fba5710192456ff"
+          }
+        ],
+        [
+          "4.7K",
+          3,
+          "R0201",
+          "R2,R3,R1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C304546",
+            "BOM_Manufacturer": "Guangdong Fenghua Advanced Tech",
+            "BOM_Manufacturer Part": "RC-01W472JT",
+            "puuid": "b600ab0518154c0c9d2ed5ca96244c69",
+            "uuid": "b21cccfca4c14987a1e16e9ee0ceff73"
+          }
+        ],
+        [
+          "OLED 0.96",
+          1,
+          "HDR-M-2.54_1X4",
+          "MOD2",
+          {
+            "BOM_Supplier Part": "C124378",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "282f7786cb6144d097ae00194c3e3fb3",
+            "uuid": "f5b1d9403e49471cab43bc5a1bec336f"
+          }
+        ],
+        [
+          "HP_5082-7432",
+          2,
+          "HP_5082-7432_12P",
+          "LED2,LED3",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "0837cfbf3c5c4c38a34891a7b40145fd",
+            "uuid": "0a06019dac6442aeb0751c02d6a4268b"
+          }
+        ],
+        [
+          "10K",
+          4,
+          "R0201",
+          "R16,R5,R4,R17",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C304504",
+            "BOM_Manufacturer": "Guangdong Fenghua Advanced Tech",
+            "BOM_Manufacturer Part": "RC-01W103JT",
+            "puuid": "b600ab0518154c0c9d2ed5ca96244c69",
+            "uuid": "2207a2df54b541adb1c09a10cf20fb82"
+          }
+        ],
+        [
+          "2SK3541T2L",
+          4,
+          "SOT-723_L1.2-W0.8-P0.40-LS1.2-BR",
+          "Q3,Q1,Q2,Q4",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "ROHM",
+            "BOM_Manufacturer Part": "2SK3541T2L",
+            "BOM_Supplier Part": "C74740",
+            "BOM_LCSC Assembly": "Yes",
+            "puuid": "fa6109cdb91742a3b130f59a0a2cd481",
+            "uuid": "6031a29f53de33e31d5e38aea556dd54"
+          }
+        ],
+        [
+          "510",
+          8,
+          "R0201",
+          "R10,R12,R11,R9,R8,R7,R6,R13",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "RALEC",
+            "BOM_Manufacturer Part": "RTT015100FTH",
+            "BOM_Supplier Part": "C158477",
+            "puuid": "b600ab0518154c0c9d2ed5ca96244c69",
+            "uuid": "9375551cc17a47b483edd05058aeb351"
+          }
+        ]
+      ],
+      "updateTime": 1607533641,
+      "createTime": 1603993055,
+      "histories": [],
+      "created_at": "2020-10-29 18:37:35",
+      "updated_at": "2020-12-09 18:07:21"
+    },
+    {
+      "uuid": "a7e07afbd48abd9bdc8a9d3640f36101",
+      "title": "RTC, DISP",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "3a92a380eb984420ae25a3930330887b": 1,
+        "7b090e841e4bce5dc590b0dd197a399b": 4,
+        "63ff1cbe72334e2182bd3d6b90dc1299": 2,
+        "b21cccfca4c14987a1e16e9ee0ceff73": 3,
+        "a3147fd5b2f6e2d19fba5710192456ff": 1,
+        "f5b1d9403e49471cab43bc5a1bec336f": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "100nF",
+          6,
+          "C0201",
+          "C2,C3,C4,C5,C20,C21",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "GRM033R61E104KE14D",
+            "BOM_Manufacturer": "MuRata",
+            "BOM_Supplier Part": "C76939",
+            "puuid": "094dad0477404885907461571bab0a7b",
+            "uuid": "7b090e841e4bce5dc590b0dd197a399b"
+          }
+        ],
+        [
+          "TS24CA",
+          2,
+          "SW-SMD_TS24CA",
+          "SW1,SW2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C393942",
+            "BOM_Manufacturer": "SHOU HAN",
+            "BOM_Manufacturer Part": "TS24CA",
+            "puuid": "6c2b316858004c588db6e8d222fe3d7f",
+            "uuid": "011ee46cdc964900a13c320feaf84dfd"
+          }
+        ],
+        [
+          "10K",
+          2,
+          "R0201",
+          "R20,R19",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C304504",
+            "BOM_Manufacturer": "Guangdong Fenghua Advanced Tech",
+            "BOM_Manufacturer Part": "RC-01W103JT",
+            "puuid": "b600ab0518154c0c9d2ed5ca96244c69",
+            "uuid": "2207a2df54b541adb1c09a10cf20fb82"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x3",
+          1,
+          "HDR-M-2.54_1X3",
+          "J3",
+          {
+            "BOM_Supplier Part": "C180248",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "9f77654394344f25b3de138e0fe05ff6",
+            "uuid": "a68dc5e6a9944c46b7604648a43dcd65"
+          }
+        ],
+        [
+          "210-72-03GB01",
+          1,
+          "HDR-TH_6P-P2.54-V-R2-C3-S2.54_A2541WV-2X3P",
+          "J2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C402781",
+            "BOM_Manufacturer": "PINREX",
+            "BOM_Manufacturer Part": "210-72-03GB01",
+            "puuid": "18221cdac22546d19da3813b3a6aa286",
+            "uuid": "a49957184b334e678537e081024fb838"
+          }
+        ],
+        [
+          "ATMEGA644V-10MU",
+          1,
+          "VQFN-44_L7.0-W7.0-P0.50-BL-EP5.2",
+          "U1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C220616",
+            "BOM_Manufacturer": "Microchip Tech",
+            "BOM_Manufacturer Part": "ATMEGA644P-20MU",
+            "puuid": "68fa7d23d2b54243b9d8fd632e0afe6e",
+            "uuid": "f1c75fae41d74a378b0b2e546576c63e"
+          }
+        ],
+        [
+          "100nF",
+          1,
+          "C0201",
+          "C7",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "GRM033R61E104KE14D",
+            "BOM_Manufacturer": "MuRata",
+            "BOM_Supplier Part": "C76939",
+            "puuid": "094dad0477404885907461571bab0a7b",
+            "uuid": "7b090e841e4bce5dc590b0dd197a399b"
+          }
+        ],
+        [
+          "10uF",
+          1,
+          "C0402",
+          "C8",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C386033",
+            "BOM_Manufacturer": "Taiyo Yuden",
+            "BOM_Manufacturer Part": "LDK105CBJ106MVLF",
+            "puuid": "f8eca159cd18407f9d5df374a1c2badf",
+            "uuid": "63ff1cbe72334e2182bd3d6b90dc1299"
+          }
+        ],
+        [
+          "10K",
+          1,
+          "R0201",
+          "R22",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C304504",
+            "BOM_Manufacturer": "Guangdong Fenghua Advanced Tech",
+            "BOM_Manufacturer Part": "RC-01W103JT",
+            "puuid": "b600ab0518154c0c9d2ed5ca96244c69",
+            "uuid": "2207a2df54b541adb1c09a10cf20fb82"
+          }
+        ],
+        [
+          "HM-11",
+          1,
+          "HM-11",
+          "MOD1",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "7c2137e69e0d4a739f1891319c84d628",
+            "uuid": "e2740e561576446abee7b86ea661fd17"
+          }
+        ],
+        [
+          "1uF",
+          3,
+          "C0201",
+          "C14,C19,C18",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C525322",
+            "BOM_Manufacturer": "PSA(Prosperity Dielectrics)",
+            "BOM_Manufacturer Part": "FS03B105M6R3PLG",
+            "puuid": "094dad0477404885907461571bab0a7b",
+            "uuid": "00fdf67f595d49dda61188aa4e6dcb6a"
+          }
+        ],
+        [
+          "100nF",
+          4,
+          "C0201",
+          "C12,C11,C13,C10",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "GRM033R61E104KE14D",
+            "BOM_Manufacturer": "MuRata",
+            "BOM_Supplier Part": "C76939",
+            "puuid": "094dad0477404885907461571bab0a7b",
+            "uuid": "7b090e841e4bce5dc590b0dd197a399b"
+          }
+        ],
+        [
+          "2.2K",
+          2,
+          "R0201",
+          "R15,R14",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C320759",
+            "BOM_Manufacturer": "Guangdong Fenghua Advanced Tech",
+            "BOM_Manufacturer Part": "RC-01W2201FT",
+            "puuid": "b600ab0518154c0c9d2ed5ca96244c69",
+            "uuid": "9c3260df01f246bea5f01abdadd122c0"
+          }
+        ],
+        [
+          "19-21SURC/S530-A5/TR8",
+          1,
+          "LED0603-R-RD",
+          "LED1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C131269",
+            "BOM_Manufacturer": "Everlight Elec",
+            "BOM_Manufacturer Part": "19-21SURC/S530-A5/TR8",
+            "puuid": "50dc3b6111d549ddb6686d77ab1ebdd8",
+            "uuid": "31b84600b45947a3ab216cd314259645"
+          }
+        ],
+        [
+          "NCP114AMX330TCG",
+          1,
+          "UDFN-4_L1.0-W1.0-P0.65-BL-EP",
+          "U4",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "ON",
+            "BOM_Manufacturer Part": "NCP114AMX330TCG",
+            "BOM_Supplier Part": "C133056",
+            "puuid": "0b0bb4600f6a4d8eb71f53eb63e886ef",
+            "uuid": "733c1cf118aa41ffa8287dc73d5f30b2"
+          }
+        ],
+        [
+          "10K",
+          1,
+          "R0201",
+          "R18",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C304504",
+            "BOM_Manufacturer": "Guangdong Fenghua Advanced Tech",
+            "BOM_Manufacturer Part": "RC-01W103JT",
+            "puuid": "b600ab0518154c0c9d2ed5ca96244c69",
+            "uuid": "2207a2df54b541adb1c09a10cf20fb82"
+          }
+        ],
+        [
+          "600Ω",
+          5,
+          "L0402",
+          "L4,L1,L2,L3,L5",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "MuRata",
+            "BOM_Manufacturer Part": "BLM15AG601SN1D",
+            "BOM_Supplier Part": "C76884",
+            "puuid": "15ece89a00f54b39a1025d56f49c74ea",
+            "uuid": "cdc418a71bb855afdf222fa2127fddba"
+          }
+        ],
+        [
+          "BQ21040DBVR",
+          1,
+          "SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR",
+          "U3",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C202311",
+            "BOM_Manufacturer": "Texas Instruments",
+            "BOM_Manufacturer Part": "BQ21040DBVR",
+            "BOM_LCSC Assembly": "Yes",
+            "puuid": "f3d2a2ecf658447dac746eb15158a989",
+            "uuid": "d542d434564b4619b7497f5ab4082c04"
+          }
+        ],
+        [
+          "U253-051T-4BH89-F1B",
+          1,
+          "MICRO-USB-SMD_U253-051T-4BH89-F1B",
+          "USB1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C319172",
+            "BOM_Manufacturer": "XKB Enterprise",
+            "BOM_Manufacturer Part": "U253-051T-4BH89-F1B",
+            "puuid": "42b540a20e024f74b2bdc7988a5e6993",
+            "uuid": "09d7c629dd0b49bb99dc53920dec6ffe"
+          }
+        ],
+        [
+          "1.0T-2P_C145954",
+          1,
+          "CONN-SMD_1.0T-2P",
+          "J1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C145954",
+            "BOM_Manufacturer": "Boom Precision Elec",
+            "BOM_Manufacturer Part": "-",
+            "puuid": "f5214fbb5de845f8bc7ddcb8d7b9a063",
+            "uuid": "d666205139914cfaa7be254d18235ec4"
+          }
+        ],
+        [
+          "DS3231MZ+",
+          1,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "U2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "MAXIM",
+            "BOM_Manufacturer Part": "DS3231MZ+",
+            "BOM_Supplier Part": "C107410",
+            "BOM_LCSC Assembly": "Yes",
+            "puuid": "fea11772be3e46fc9943dcf3594665f6",
+            "uuid": "3a92a380eb984420ae25a3930330887b"
+          }
+        ],
+        [
+          "100nF",
+          4,
+          "C0201",
+          "C16,C15,C6,C9",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "GRM033R61E104KE14D",
+            "BOM_Manufacturer": "MuRata",
+            "BOM_Supplier Part": "C76939",
+            "puuid": "094dad0477404885907461571bab0a7b",
+            "uuid": "7b090e841e4bce5dc590b0dd197a399b"
+          }
+        ],
+        [
+          "10uF",
+          2,
+          "C0402",
+          "C1,C17",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C386033",
+            "BOM_Manufacturer": "Taiyo Yuden",
+            "BOM_Manufacturer Part": "LDK105CBJ106MVLF",
+            "puuid": "f8eca159cd18407f9d5df374a1c2badf",
+            "uuid": "63ff1cbe72334e2182bd3d6b90dc1299"
+          }
+        ],
+        [
+          "ADXL345BCCZ-RL7",
+          1,
+          "LGA-14_L5.0-W3.0-P0.80-BL",
+          "U5",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "ADI",
+            "BOM_Manufacturer Part": "ADXL345BCCZ-RL7",
+            "BOM_Supplier Part": "C9667",
+            "BOM_LCSC Assembly": "Yes",
+            "puuid": "1dcd976d10e04b3783d0ce6134c46f5a",
+            "uuid": "a3147fd5b2f6e2d19fba5710192456ff"
+          }
+        ],
+        [
+          "4.7K",
+          3,
+          "R0201",
+          "R2,R3,R1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C304546",
+            "BOM_Manufacturer": "Guangdong Fenghua Advanced Tech",
+            "BOM_Manufacturer Part": "RC-01W472JT",
+            "puuid": "b600ab0518154c0c9d2ed5ca96244c69",
+            "uuid": "b21cccfca4c14987a1e16e9ee0ceff73"
+          }
+        ],
+        [
+          "OLED 0.96",
+          1,
+          "HDR-M-2.54_1X4",
+          "MOD2",
+          {
+            "BOM_Supplier Part": "C124378",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "282f7786cb6144d097ae00194c3e3fb3",
+            "uuid": "f5b1d9403e49471cab43bc5a1bec336f"
+          }
+        ],
+        [
+          "HP_5082-7432",
+          2,
+          "HP_5082-7432_12P",
+          "LED2,LED3",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "0837cfbf3c5c4c38a34891a7b40145fd",
+            "uuid": "0a06019dac6442aeb0751c02d6a4268b"
+          }
+        ],
+        [
+          "10K",
+          4,
+          "R0201",
+          "R16,R5,R4,R17",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C304504",
+            "BOM_Manufacturer": "Guangdong Fenghua Advanced Tech",
+            "BOM_Manufacturer Part": "RC-01W103JT",
+            "puuid": "b600ab0518154c0c9d2ed5ca96244c69",
+            "uuid": "2207a2df54b541adb1c09a10cf20fb82"
+          }
+        ],
+        [
+          "2SK3541T2L",
+          4,
+          "SOT-723_L1.2-W0.8-P0.40-LS1.2-BR",
+          "Q3,Q1,Q2,Q4",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "ROHM",
+            "BOM_Manufacturer Part": "2SK3541T2L",
+            "BOM_Supplier Part": "C74740",
+            "BOM_LCSC Assembly": "Yes",
+            "puuid": "fa6109cdb91742a3b130f59a0a2cd481",
+            "uuid": "6031a29f53de33e31d5e38aea556dd54"
+          }
+        ],
+        [
+          "510",
+          8,
+          "R0201",
+          "R10,R12,R11,R9,R8,R7,R6,R13",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "RALEC",
+            "BOM_Manufacturer Part": "RTT015100FTH",
+            "BOM_Supplier Part": "C158477",
+            "puuid": "b600ab0518154c0c9d2ed5ca96244c69",
+            "uuid": "9375551cc17a47b483edd05058aeb351"
+          }
+        ]
+      ],
+      "updateTime": 1607533641,
+      "createTime": 1603993056,
+      "histories": [],
+      "created_at": "2020-10-29 18:37:36",
+      "updated_at": "2020-12-09 18:07:21"
+    },
+    {
+      "uuid": "26dd43e96277b92f2c3c20d1f263dc69",
+      "title": "LED",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "0a06019dac6442aeb0751c02d6a4268b": 2,
+        "9375551cc17a47b483edd05058aeb351": 8,
+        "6031a29f53de33e31d5e38aea556dd54": 4,
+        "2207a2df54b541adb1c09a10cf20fb82": 4
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "100nF",
+          6,
+          "C0201",
+          "C2,C3,C4,C5,C20,C21",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "GRM033R61E104KE14D",
+            "BOM_Manufacturer": "MuRata",
+            "BOM_Supplier Part": "C76939",
+            "puuid": "094dad0477404885907461571bab0a7b",
+            "uuid": "7b090e841e4bce5dc590b0dd197a399b"
+          }
+        ],
+        [
+          "TS24CA",
+          2,
+          "SW-SMD_TS24CA",
+          "SW1,SW2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C393942",
+            "BOM_Manufacturer": "SHOU HAN",
+            "BOM_Manufacturer Part": "TS24CA",
+            "puuid": "6c2b316858004c588db6e8d222fe3d7f",
+            "uuid": "011ee46cdc964900a13c320feaf84dfd"
+          }
+        ],
+        [
+          "10K",
+          2,
+          "R0201",
+          "R20,R19",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C304504",
+            "BOM_Manufacturer": "Guangdong Fenghua Advanced Tech",
+            "BOM_Manufacturer Part": "RC-01W103JT",
+            "puuid": "b600ab0518154c0c9d2ed5ca96244c69",
+            "uuid": "2207a2df54b541adb1c09a10cf20fb82"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x3",
+          1,
+          "HDR-M-2.54_1X3",
+          "J3",
+          {
+            "BOM_Supplier Part": "C180248",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "9f77654394344f25b3de138e0fe05ff6",
+            "uuid": "a68dc5e6a9944c46b7604648a43dcd65"
+          }
+        ],
+        [
+          "210-72-03GB01",
+          1,
+          "HDR-TH_6P-P2.54-V-R2-C3-S2.54_A2541WV-2X3P",
+          "J2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C402781",
+            "BOM_Manufacturer": "PINREX",
+            "BOM_Manufacturer Part": "210-72-03GB01",
+            "puuid": "18221cdac22546d19da3813b3a6aa286",
+            "uuid": "a49957184b334e678537e081024fb838"
+          }
+        ],
+        [
+          "ATMEGA644V-10MU",
+          1,
+          "VQFN-44_L7.0-W7.0-P0.50-BL-EP5.2",
+          "U1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C220616",
+            "BOM_Manufacturer": "Microchip Tech",
+            "BOM_Manufacturer Part": "ATMEGA644P-20MU",
+            "puuid": "68fa7d23d2b54243b9d8fd632e0afe6e",
+            "uuid": "f1c75fae41d74a378b0b2e546576c63e"
+          }
+        ],
+        [
+          "100nF",
+          1,
+          "C0201",
+          "C7",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "GRM033R61E104KE14D",
+            "BOM_Manufacturer": "MuRata",
+            "BOM_Supplier Part": "C76939",
+            "puuid": "094dad0477404885907461571bab0a7b",
+            "uuid": "7b090e841e4bce5dc590b0dd197a399b"
+          }
+        ],
+        [
+          "10uF",
+          1,
+          "C0402",
+          "C8",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C386033",
+            "BOM_Manufacturer": "Taiyo Yuden",
+            "BOM_Manufacturer Part": "LDK105CBJ106MVLF",
+            "puuid": "f8eca159cd18407f9d5df374a1c2badf",
+            "uuid": "63ff1cbe72334e2182bd3d6b90dc1299"
+          }
+        ],
+        [
+          "10K",
+          1,
+          "R0201",
+          "R22",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C304504",
+            "BOM_Manufacturer": "Guangdong Fenghua Advanced Tech",
+            "BOM_Manufacturer Part": "RC-01W103JT",
+            "puuid": "b600ab0518154c0c9d2ed5ca96244c69",
+            "uuid": "2207a2df54b541adb1c09a10cf20fb82"
+          }
+        ],
+        [
+          "HM-11",
+          1,
+          "HM-11",
+          "MOD1",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "7c2137e69e0d4a739f1891319c84d628",
+            "uuid": "e2740e561576446abee7b86ea661fd17"
+          }
+        ],
+        [
+          "1uF",
+          3,
+          "C0201",
+          "C14,C19,C18",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C525322",
+            "BOM_Manufacturer": "PSA(Prosperity Dielectrics)",
+            "BOM_Manufacturer Part": "FS03B105M6R3PLG",
+            "puuid": "094dad0477404885907461571bab0a7b",
+            "uuid": "00fdf67f595d49dda61188aa4e6dcb6a"
+          }
+        ],
+        [
+          "100nF",
+          4,
+          "C0201",
+          "C12,C11,C13,C10",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "GRM033R61E104KE14D",
+            "BOM_Manufacturer": "MuRata",
+            "BOM_Supplier Part": "C76939",
+            "puuid": "094dad0477404885907461571bab0a7b",
+            "uuid": "7b090e841e4bce5dc590b0dd197a399b"
+          }
+        ],
+        [
+          "2.2K",
+          2,
+          "R0201",
+          "R15,R14",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C320759",
+            "BOM_Manufacturer": "Guangdong Fenghua Advanced Tech",
+            "BOM_Manufacturer Part": "RC-01W2201FT",
+            "puuid": "b600ab0518154c0c9d2ed5ca96244c69",
+            "uuid": "9c3260df01f246bea5f01abdadd122c0"
+          }
+        ],
+        [
+          "19-21SURC/S530-A5/TR8",
+          1,
+          "LED0603-R-RD",
+          "LED1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C131269",
+            "BOM_Manufacturer": "Everlight Elec",
+            "BOM_Manufacturer Part": "19-21SURC/S530-A5/TR8",
+            "puuid": "50dc3b6111d549ddb6686d77ab1ebdd8",
+            "uuid": "31b84600b45947a3ab216cd314259645"
+          }
+        ],
+        [
+          "NCP114AMX330TCG",
+          1,
+          "UDFN-4_L1.0-W1.0-P0.65-BL-EP",
+          "U4",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "ON",
+            "BOM_Manufacturer Part": "NCP114AMX330TCG",
+            "BOM_Supplier Part": "C133056",
+            "puuid": "0b0bb4600f6a4d8eb71f53eb63e886ef",
+            "uuid": "733c1cf118aa41ffa8287dc73d5f30b2"
+          }
+        ],
+        [
+          "10K",
+          1,
+          "R0201",
+          "R18",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C304504",
+            "BOM_Manufacturer": "Guangdong Fenghua Advanced Tech",
+            "BOM_Manufacturer Part": "RC-01W103JT",
+            "puuid": "b600ab0518154c0c9d2ed5ca96244c69",
+            "uuid": "2207a2df54b541adb1c09a10cf20fb82"
+          }
+        ],
+        [
+          "600Ω",
+          5,
+          "L0402",
+          "L4,L1,L2,L3,L5",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "MuRata",
+            "BOM_Manufacturer Part": "BLM15AG601SN1D",
+            "BOM_Supplier Part": "C76884",
+            "puuid": "15ece89a00f54b39a1025d56f49c74ea",
+            "uuid": "cdc418a71bb855afdf222fa2127fddba"
+          }
+        ],
+        [
+          "BQ21040DBVR",
+          1,
+          "SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR",
+          "U3",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C202311",
+            "BOM_Manufacturer": "Texas Instruments",
+            "BOM_Manufacturer Part": "BQ21040DBVR",
+            "BOM_LCSC Assembly": "Yes",
+            "puuid": "f3d2a2ecf658447dac746eb15158a989",
+            "uuid": "d542d434564b4619b7497f5ab4082c04"
+          }
+        ],
+        [
+          "U253-051T-4BH89-F1B",
+          1,
+          "MICRO-USB-SMD_U253-051T-4BH89-F1B",
+          "USB1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C319172",
+            "BOM_Manufacturer": "XKB Enterprise",
+            "BOM_Manufacturer Part": "U253-051T-4BH89-F1B",
+            "puuid": "42b540a20e024f74b2bdc7988a5e6993",
+            "uuid": "09d7c629dd0b49bb99dc53920dec6ffe"
+          }
+        ],
+        [
+          "1.0T-2P_C145954",
+          1,
+          "CONN-SMD_1.0T-2P",
+          "J1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C145954",
+            "BOM_Manufacturer": "Boom Precision Elec",
+            "BOM_Manufacturer Part": "-",
+            "puuid": "f5214fbb5de845f8bc7ddcb8d7b9a063",
+            "uuid": "d666205139914cfaa7be254d18235ec4"
+          }
+        ],
+        [
+          "DS3231MZ+",
+          1,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "U2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "MAXIM",
+            "BOM_Manufacturer Part": "DS3231MZ+",
+            "BOM_Supplier Part": "C107410",
+            "BOM_LCSC Assembly": "Yes",
+            "puuid": "fea11772be3e46fc9943dcf3594665f6",
+            "uuid": "3a92a380eb984420ae25a3930330887b"
+          }
+        ],
+        [
+          "100nF",
+          4,
+          "C0201",
+          "C16,C15,C6,C9",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "GRM033R61E104KE14D",
+            "BOM_Manufacturer": "MuRata",
+            "BOM_Supplier Part": "C76939",
+            "puuid": "094dad0477404885907461571bab0a7b",
+            "uuid": "7b090e841e4bce5dc590b0dd197a399b"
+          }
+        ],
+        [
+          "10uF",
+          2,
+          "C0402",
+          "C1,C17",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C386033",
+            "BOM_Manufacturer": "Taiyo Yuden",
+            "BOM_Manufacturer Part": "LDK105CBJ106MVLF",
+            "puuid": "f8eca159cd18407f9d5df374a1c2badf",
+            "uuid": "63ff1cbe72334e2182bd3d6b90dc1299"
+          }
+        ],
+        [
+          "ADXL345BCCZ-RL7",
+          1,
+          "LGA-14_L5.0-W3.0-P0.80-BL",
+          "U5",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "ADI",
+            "BOM_Manufacturer Part": "ADXL345BCCZ-RL7",
+            "BOM_Supplier Part": "C9667",
+            "BOM_LCSC Assembly": "Yes",
+            "puuid": "1dcd976d10e04b3783d0ce6134c46f5a",
+            "uuid": "a3147fd5b2f6e2d19fba5710192456ff"
+          }
+        ],
+        [
+          "4.7K",
+          3,
+          "R0201",
+          "R2,R3,R1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C304546",
+            "BOM_Manufacturer": "Guangdong Fenghua Advanced Tech",
+            "BOM_Manufacturer Part": "RC-01W472JT",
+            "puuid": "b600ab0518154c0c9d2ed5ca96244c69",
+            "uuid": "b21cccfca4c14987a1e16e9ee0ceff73"
+          }
+        ],
+        [
+          "OLED 0.96",
+          1,
+          "HDR-M-2.54_1X4",
+          "MOD2",
+          {
+            "BOM_Supplier Part": "C124378",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "282f7786cb6144d097ae00194c3e3fb3",
+            "uuid": "f5b1d9403e49471cab43bc5a1bec336f"
+          }
+        ],
+        [
+          "HP_5082-7432",
+          2,
+          "HP_5082-7432_12P",
+          "LED2,LED3",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "0837cfbf3c5c4c38a34891a7b40145fd",
+            "uuid": "0a06019dac6442aeb0751c02d6a4268b"
+          }
+        ],
+        [
+          "10K",
+          4,
+          "R0201",
+          "R16,R5,R4,R17",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C304504",
+            "BOM_Manufacturer": "Guangdong Fenghua Advanced Tech",
+            "BOM_Manufacturer Part": "RC-01W103JT",
+            "puuid": "b600ab0518154c0c9d2ed5ca96244c69",
+            "uuid": "2207a2df54b541adb1c09a10cf20fb82"
+          }
+        ],
+        [
+          "2SK3541T2L",
+          4,
+          "SOT-723_L1.2-W0.8-P0.40-LS1.2-BR",
+          "Q3,Q1,Q2,Q4",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "ROHM",
+            "BOM_Manufacturer Part": "2SK3541T2L",
+            "BOM_Supplier Part": "C74740",
+            "BOM_LCSC Assembly": "Yes",
+            "puuid": "fa6109cdb91742a3b130f59a0a2cd481",
+            "uuid": "6031a29f53de33e31d5e38aea556dd54"
+          }
+        ],
+        [
+          "510",
+          8,
+          "R0201",
+          "R10,R12,R11,R9,R8,R7,R6,R13",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "RALEC",
+            "BOM_Manufacturer Part": "RTT015100FTH",
+            "BOM_Supplier Part": "C158477",
+            "puuid": "b600ab0518154c0c9d2ed5ca96244c69",
+            "uuid": "9375551cc17a47b483edd05058aeb351"
+          }
+        ]
+      ],
+      "updateTime": 1607533702,
+      "createTime": 1604011294,
+      "histories": [],
+      "created_at": "2020-10-29 23:41:34",
+      "updated_at": "2020-12-09 18:08:22"
+    },
+    {
+      "uuid": "7631dbd751fdb92adbf624fcfc967bcb",
+      "puuid": "f5ec1d8e9c52c4dc0e5214b9f4c4ecef",
+      "title": "PCB",
+      "filename": "PCB.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "fa6109cdb91742a3b130f59a0a2cd481": 4,
+        "b600ab0518154c0c9d2ed5ca96244c69": 21,
+        "282f7786cb6144d097ae00194c3e3fb3": 1,
+        "094dad0477404885907461571bab0a7b": 18,
+        "0837cfbf3c5c4c38a34891a7b40145fd": 2,
+        "fea11772be3e46fc9943dcf3594665f6": 1,
+        "42b540a20e024f74b2bdc7988a5e6993": 1,
+        "6c2b316858004c588db6e8d222fe3d7f": 2,
+        "50dc3b6111d549ddb6686d77ab1ebdd8": 1,
+        "f8eca159cd18407f9d5df374a1c2badf": 3,
+        "0b0bb4600f6a4d8eb71f53eb63e886ef": 1,
+        "9f77654394344f25b3de138e0fe05ff6": 1,
+        "1dcd976d10e04b3783d0ce6134c46f5a": 1,
+        "18221cdac22546d19da3813b3a6aa286": 1,
+        "15ece89a00f54b39a1025d56f49c74ea": 5,
+        "f3d2a2ecf658447dac746eb15158a989": 1,
+        "f5214fbb5de845f8bc7ddcb8d7b9a063": 1,
+        "7c2137e69e0d4a739f1891319c84d628": 1,
+        "68fa7d23d2b54243b9d8fd632e0afe6e": 1
+      },
+      "BOM": [],
+      "updateTime": 1607644177,
+      "createTime": 1604358905,
+      "histories": [],
+      "created_at": "2020-11-03 00:15:05",
+      "updated_at": "2020-12-11 00:49:37"
+    }
+  ],
+  "sort": [
+    "35f14354ee7434c793349f4869f928d6",
+    "9d1ceb6f2d2e285dfdc064056845b80d",
+    "42f8e7dc8bb43b54171e197883456c0c",
+    "ab4f4611485034ca75383825f6f08986",
+    "a7e07afbd48abd9bdc8a9d3640f36101",
+    "26dd43e96277b92f2c3c20d1f263dc69"
+  ],
+  "title": "K24OLW1BMA2",
+  "foldername": "K24OLW1BMA2",
+  "schfilename": "K24OLW1BMA2.json",
+  "schfilemtime": 1607555153520
+}
